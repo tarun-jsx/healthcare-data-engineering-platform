@@ -198,7 +198,7 @@ python main.py
 
 ### Data Quality Validation
 
-![Data Quality](docs/screenshots/07_data_quality.png)
+![Data Quality](docs/screenshots/11_data_quality.png)
 
 ### Drug Report Analysis
 
